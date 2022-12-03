@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2022.24</version>
+    <version>2022.23</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -122,7 +122,7 @@
     <Element type="model" name="Single Line">
       <EffectLayer>
         <Effect ref="0" name="Lines" startTime="3000" endTime="15100" palette="0"/>
-        <Effect ref="0" name="Lines" id="1" startTime="15200" endTime="27300" palette="1"/>
+        <Effect ref="0" name="Lines" selected="1" id="1" startTime="15200" endTime="27300" palette="1"/>
         <Effect ref="1" name="Bars" id="2" startTime="49200" endTime="59950" palette="2"/>
       </EffectLayer>
     </Element>

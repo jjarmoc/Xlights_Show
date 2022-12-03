@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2022.24</version>
+    <version>2022.22</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -12,17 +12,33 @@
     <comment></comment>
     <sequenceTiming>50 ms</sequenceTiming>
     <sequenceType>Animation</sequenceType>
-    <mediaFile/>
-    <sequenceDuration>300.000</sequenceDuration>
-    <imageDir/>
+    <mediaFile></mediaFile>
+    <sequenceDuration>90.000</sequenceDuration>
+    <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
   <ColorPalettes>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model/Strand,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=30.0,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.00</Effect>
+    <Effect>E_CHECKBOX_ColorWash_CircularPalette=1,E_TEXTCTRL_ColorWash_Cycles=4.6,T_CHOICE_In_Transition_Type=Dissolve,T_TEXTCTRL_Fadein=1.00</Effect>
+    <Effect>T_TEXTCTRL_Fadein=05.00,T_TEXTCTRL_Fadeout=5.00</Effect>
+    <Effect>E_TEXTCTRL_On_Cycles=20.0,T_CHOICE_In_Transition_Type=From Middle,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=5.00</Effect>
+    <Effect>T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=3.00</Effect>
+    <Effect>T_CHOICE_In_Transition_Type=From Middle,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=3.00</Effect>
+    <Effect>E_CHECKBOX_PRE_2017_7=0,E_CHECKBOX_Shimmer_Use_All_Colors=1,E_SLIDER_Shimmer_Duty_Factor=50,E_TEXTCTRL_Shimmer_Cycles=23.2,T_CHOICE_In_Transition_Type=Clock,T_CHOICE_Out_Transition_Type=Clock,T_SLIDER_In_Transition_Adjust=50,T_SLIDER_Out_Transition_Adjust=50,T_TEXTCTRL_Fadein=5.00,T_TEXTCTRL_Fadeout=0.50</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Reverse,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=4,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadeout=3.00</Effect>
+    <Effect>T_TEXTCTRL_Fadein=3.00</Effect>
+    <Effect>E_TEXTCTRL_On_Cycles=19.9,T_CHOICE_Out_Transition_Type=Dissolve,T_SLIDER_EffectLayerMix=51,T_TEXTCTRL_Fadeout=5.00</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=4,T_CHECKBOX_Canvas=1,T_CHECKBOX_LayerMorph=1,T_CHOICE_LayerMethod=1 reveals 2,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadein=10.00,T_TEXTCTRL_Fadeout=3.00</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=4,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadein=3.00,T_TEXTCTRL_Fadeout=3.00</Effect>
+    <Effect>E_TEXTCTRL_On_Cycles=20.0,T_CHOICE_In_Transition_Type=Fold,T_TEXTCTRL_Fadein=3.00</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="434" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -86,21 +102,43 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="All">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="0" name="Color Wash" startTime="42900" endTime="76400" palette="0"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Floods">
       <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="301200" palette="0"/>
+        <Effect ref="1" name="On" startTime="0" endTime="20000" palette="1"/>
+        <Effect ref="2" name="On" id="1" startTime="35200" endTime="43000" palette="2"/>
+        <Effect ref="3" name="On" selected="1" id="2" startTime="58400" endTime="76400" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Stars">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="4" name="On" startTime="50" endTime="10200" palette="3"/>
+        <Effect ref="5" name="Shimmer" id="1" startTime="10200" endTime="20050" palette="4"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="6" name="Butterfly" startTime="18400" endTime="35100" palette="5"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Trees">
+      <EffectLayer>
+        <Effect ref="7" name="On" startTime="0" endTime="21000" palette="2"/>
+      </EffectLayer>
       <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="8" name="On" startTime="20150" endTime="27750" palette="2"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="9" name="Butterfly" startTime="20300" endTime="37900" palette="5"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Bulbs">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="10" name="Butterfly" startTime="15250" endTime="30150" palette="5"/>
+        <Effect ref="11" name="On" id="1" startTime="35100" endTime="42900" palette="5"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Bulb-20">
       <EffectLayer/>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models>
-    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line" LayoutGroup="Default" parm2="38" Controller="StageRight" WorldPosX="794.4471" WorldPosY="349.6691" WorldPosZ="0.0000" X2="63.018616" Y2="-2.066162" Z2="0.000000" versionNumber="5" StartChannel="!StageRight:175">
-      <ControllerConnection Protocol="ws2811" Port="4"/>
-    </model>
     <model DisplayAs="Wreath" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="5" name="Bulb-20" Controller="StageLeft" ModelChain="&gt;Bulb-19" WorldPosX="944.7523" WorldPosY="352.2167" WorldPosZ="0.0000" ScaleX="0.6493" ScaleY="0.4389" ScaleZ="0.2000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!StageLeft:152">
       <ControllerConnection Port="3" Protocol="ws2811" brightness="100"/>
     </model>
@@ -141,6 +138,9 @@
     </model>
     <model Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" TreeBottomTopRatio="5.000000" DisplayAs="Tree 180" TreeRotation="0.000000" parm3="5" parm1="1" parm2="70" Dir="R" StartSide="B" StringType="RGB Nodes" name="Tree-4" Active="1" Controller="F16V3" WorldPosX="503.5428" WorldPosY="268.8458" WorldPosZ="0.0000" ScaleX="1.0110" ScaleY="1.0186" ScaleZ="1.0110" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!F16V3:541">
       <ControllerConnection brightness="20" Port="4" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line" LayoutGroup="Default" parm2="38" Controller="StageLeft" WorldPosX="857.9212" WorldPosY="344.1837" WorldPosZ="0.0000" X2="-66.081970" Y2="1.428833" Z2="0.000000" versionNumber="5" StartChannel="!StageLeft:167">
+      <ControllerConnection Protocol="ws2811" Port="4"/>
     </model>
   </models>
   <view_objects>

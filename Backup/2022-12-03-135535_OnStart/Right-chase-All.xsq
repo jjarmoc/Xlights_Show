@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2022.24</version>
+    <version>2022.22</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -10,22 +10,26 @@
     <album></album>
     <MusicURL></MusicURL>
     <comment></comment>
-    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Animation</sequenceType>
     <mediaFile/>
-    <sequenceDuration>300.000</sequenceDuration>
+    <sequenceDuration>70.000</sequenceDuration>
     <imageDir/>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
   <ColorPalettes>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model/Strand,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=30.0,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.00</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=3,E_TEXTCTRL_Bars_Cycles=10,T_TEXTCTRL_Fadein=5.00,T_TEXTCTRL_Fadeout=5.00</Effect>
+    <Effect>T_CHOICE_In_Transition_Type=Circle Explode,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadein=5.00,T_TEXTCTRL_Fadeout=5.00</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=400,E_SLIDER_Pinwheel_Arms=9,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=2,E_SLIDER_Pinwheel_Thickness=49,E_SLIDER_Pinwheel_Twist=0,T_CHOICE_In_Transition_Type=Circular Swirl,T_CHOICE_Out_Transition_Type=Dissolve,T_TEXTCTRL_Fadein=5.00,T_TEXTCTRL_Fadeout=5.00</Effect>
   </EffectDB>
   <DataLayers>
-    <DataLayer lor_params="434" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+    <DataLayer lor_params="1077039552" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
@@ -86,12 +90,15 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="All">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="0" name="Bars" selected="1" startTime="300" endTime="30250" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="30250" endTime="40400" palette="1"/>
+        <Effect ref="1" name="On" id="2" startTime="40400" endTime="50100" palette="2"/>
+        <Effect ref="2" name="Pinwheel" id="3" startTime="50400" endTime="70000" palette="0"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Floods">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="301200" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Stars">
       <EffectLayer/>

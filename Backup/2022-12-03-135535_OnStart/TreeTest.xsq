@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2022.24</version>
+    <version>2022.22</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -10,22 +10,30 @@
     <album></album>
     <MusicURL></MusicURL>
     <comment></comment>
-    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Animation</sequenceType>
     <mediaFile/>
-    <sequenceDuration>300.000</sequenceDuration>
+    <sequenceDuration>10</sequenceDuration>
     <imageDir/>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
   <ColorPalettes>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model/Strand,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=30.0,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.00</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
+    <Effect></Effect>
   </EffectDB>
   <DataLayers>
-    <DataLayer lor_params="434" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
@@ -54,13 +62,7 @@
     <Element collapsed="0" type="model" name="Bulb-3" visible="1"/>
     <Element collapsed="0" type="model" name="Bulb-2" visible="1"/>
     <Element collapsed="0" type="model" name="Bulb" visible="1"/>
-    <Element collapsed="0" type="model" name="Star-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Star-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Star" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree" visible="1"/>
-    <Element collapsed="0" type="model" name="Flood-10" visible="1"/>
+    <Element collapsed="1" type="model" name="Flood-10" visible="1"/>
     <Element collapsed="0" type="model" name="Flood-9" visible="1"/>
     <Element collapsed="0" type="model" name="Flood-8" visible="1"/>
     <Element collapsed="0" type="model" name="Flood-7" visible="1"/>
@@ -70,16 +72,22 @@
     <Element collapsed="0" type="model" name="Flood-3" visible="1"/>
     <Element collapsed="0" type="model" name="Flood-2" visible="1"/>
     <Element collapsed="0" type="model" name="Flood-1" visible="1"/>
-    <Element collapsed="0" type="model" name="Star-8" visible="1"/>
     <Element collapsed="0" type="model" name="Tree-8" visible="1"/>
-    <Element collapsed="0" type="model" name="Star-7" visible="1"/>
     <Element collapsed="0" type="model" name="Tree-7" visible="1"/>
-    <Element collapsed="0" type="model" name="Star-6" visible="1"/>
     <Element collapsed="0" type="model" name="Tree-6" visible="1"/>
-    <Element collapsed="0" type="model" name="Star-5" visible="1"/>
     <Element collapsed="0" type="model" name="Tree-5" visible="1"/>
-    <Element collapsed="0" type="model" name="Star-4" visible="1"/>
     <Element collapsed="0" type="model" name="Tree-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -89,9 +97,7 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Floods">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="301200" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Stars">
       <EffectLayer/>
@@ -162,24 +168,6 @@
     <Element type="model" name="Bulb">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Star-3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree-3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Star-2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree-2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Star">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Flood-10">
       <EffectLayer/>
     </Element>
@@ -210,34 +198,68 @@
     <Element type="model" name="Flood-1">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Star-8">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Tree-8">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="10025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree-7">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10050" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree-6">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="10000" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree-5">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="25" endTime="10375" palette="3"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree-4">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="10175" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree-3">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10150" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree-2">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="10175" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="1" name="On" selected="1" startTime="0" endTime="10300" palette="7"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Star-8">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Star-7">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree-7">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Star-6">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree-6">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Star-5">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree-5">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Star-4">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree-4">
+    <Element type="model" name="Star-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star">
       <EffectLayer/>
     </Element>
   </ElementEffects>
