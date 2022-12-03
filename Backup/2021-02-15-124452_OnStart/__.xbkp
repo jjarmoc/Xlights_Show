@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.04</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="1642" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Tree 1 w Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 2 w Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 3 w Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 4 w Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree 5 w Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-2" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 1 w Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 2 w Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 3 w Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 4 w Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree 5 w Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-2">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

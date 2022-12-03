@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.57</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/jeff/Music/iTunes/iTunes Media/Music/Sia/Everyday Is Christmas/02 Candy Cane Lane.m4a</mediaFile>
+    <sequenceDuration>212.414</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=-2,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=149,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Offset=67,E_SLIDER_Pinwheel_Speed=11,E_SLIDER_Pinwheel_Thickness=32,E_SLIDER_Pinwheel_Twist=-52</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=9,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=5,E_SLIDER_Marquee_Stagger=3,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=100</Effect>
+    <Effect></Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="trees" visible="1"/>
+    <Element collapsed="0" type="model" name="stars" visible="1"/>
+    <Element collapsed="0" type="model" name="arches" visible="1"/>
+    <Element collapsed="0" type="model" name="windows" visible="1"/>
+    <Element collapsed="0" type="model" name="outline" visible="1"/>
+    <Element collapsed="0" type="model" name="house" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 12 3 prong-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 12 3 prong-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 12 3 prong-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 12 3 prong-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 12 3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="GE XKF 330" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-12" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-11" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-10" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-11" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-10" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Poly Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-7" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="trees">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" startTime="6750" endTime="16225" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="windows">
+      <EffectLayer>
+        <Effect ref="1" name="Marquee" startTime="6900" endTime="21550" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="outline">
+      <EffectLayer>
+        <Effect ref="2" name="Color Wash" startTime="0" endTime="19700" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="house">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 12 3 prong-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 12 3 prong-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 12 3 prong-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 12 3 prong-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 12 3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE XKF 330">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-12">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Poly Line">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Frame">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-7">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

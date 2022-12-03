@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" CustomModel=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,160,,159,,,158,,,157,,,156,,,155,,,154,,,153,,,152,,,151,,,150,,,149,,,148,,,147,,146,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,121,,122,,123,,124,,125,,126,,127,,128,,129,,130,,131,,132,,133,,134,,135,,136,,137,,138,,139,,140,,,,,,,,,,,,;,,,,161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,145,,,,,,,,,,;,,,,,,120,,119,,118,,117,,116,,115,,114,,113,,112,,111,,110,,109,,108,,107,,106,,105,,104,,103,,102,,101,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,162,,81,,82,,83,,84,,85,,86,,87,,88,,89,,90,,91,,92,,93,,94,,95,,96,,97,,98,,99,,100,,141,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,80,,79,,78,,77,,76,,75,,74,,73,,72,,71,,70,,69,,68,,67,,66,,65,,64,,63,,62,,61,,,,,,,,,,,,;,,,,163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,144,,,,,,,,,,;,,,,,,41,,42,,43,,44,,45,,46,,47,,48,,49,,50,,51,,52,,53,,54,,55,,56,,57,,58,,59,,60,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,164,,40,,39,,38,,37,,36,,35,,34,,33,,32,,31,,30,,29,,28,,27,,26,,25,,24,,23,,22,,21,,142,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,1,,2,,3,,4,,5,,6,,7,,8,,9,,10,,11,,12,,13,,14,,15,,16,,17,,18,,19,,20,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,165,,,,228,,,227,,,226,,,225,,,224,,,223,,,222,,,221,,,220,,,219,,,218,,,217,,,143,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,216,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,215,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,214,,,,,,,,,,,,,,,,,;,,,,,,,,,,,168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,,,,,,,,,,,,,,,,,;,,,,,,,,,,,169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,212,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,170,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,211,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,210,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,209,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,208,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,174,,,,,,,,,,,,,,,,,,,,,,,,,,,,207,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,177,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,,,,,,,,,,;,,,,,,,,,,179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,,,,,,,,;,,,,,,,,,,,180,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,,,,,,,;,,,,,,,,,,,,,,,182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,183,,,184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,199,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,186,,,,,,,,,,,,,,,,,,,,,,,,198,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,187,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,197,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,188,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,189,,,,,,,,,,,,,,,,196,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,190,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,191,,,,,,,,,,195,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,192,,,,,194,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,193,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," parm1="57" parm2="75" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" LayoutGroup="Default" name="Stocking" ControllerConnection="WS2811:15" offsetXpct="0.7463" offsetYpct="0.8588" PreviewScaleX="0.0782" PreviewScaleY="0.1185" PreviewRotation="0" versionNumber="1" StartChannel="#31:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+      <subModel name="Stocking" layout="horizontal" type="ranges" line0="141-238"/>
+      <subModel name="Matrix" layout="horizontal" type="ranges" line0="1-20" line1="40,39,38,37,36,35,34,33,32,31,30,29,28,27,26,25,24,23,22,21" line2="41-60" line3="80,79,78,77,76,75,74,73,72,71,70,69,68,67,66,65,64,63,62,61" line4="81-100" line5="120,119,118,117,116,115,114,113,112,111,110,109,108,107,106,105,104,103,102,101" line6="121-140"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="123" ControllerConnection="WS2811:8" name="Single Line 4b" Dir="R" X1="0.475454" Y1="0.589811" X2="0.591039" Y2="0.591072" versionNumber="1" StartChannel="&gt;Single Line 5:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="155" ControllerConnection="WS2811:5" name="Single Line 4a" Dir="L" X1="0.329999" Y1="0.589987" X2="0.472727" Y2="0.590164" versionNumber="1" StartChannel="&gt;Single Line 3:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model StringType="RGB Nodes" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" Dir="L" StartSide="B" DisplayAs="Vert Matrix" name="signMatrix" parm2="850" parm3="65" ControllerConnection="WS2811:1" offsetXpct="0.5972" offsetYpct="0.4200" PreviewScaleX="0.1073" PreviewScaleY="0.0252" PreviewRotation="0" versionNumber="1" StartChannel="#40:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" ControllerConnection="WS2811:2" name="HalloweenPorchSingleLine 1" X1="0.444545" Y1="0.517024" X2="0.528182" Y2="0.515762" versionNumber="1" StartChannel="#17:331">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:3" name="HalloweenPorchSingleLine 2" X1="0.442729" Y1="0.509281" X2="0.530911" Y2="0.508195" versionNumber="1" StartChannel="#21:331">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 23" offsetXpct="0.1528" offsetYpct="0.5419" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 22:1"/>
+    <model DisplayAs="Circle" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="50" LayoutGroup="Default" parm2="33" circleSizes="33,33,33" name="BoyscoyoWreath" parm1="3" offsetXpct="0.4773" offsetYpct="0.4615" PreviewScaleX="0.0273" PreviewScaleY="0.0454" PreviewRotation="0" versionNumber="1" StartChannel="#18:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 22" offsetXpct="0.1946" offsetYpct="0.4791" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 21:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 21" offsetXpct="0.0964" offsetYpct="0.5673" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 20:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 20" offsetXpct="0.4000" offsetYpct="0.5687" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 19:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 19" offsetXpct="0.4500" offsetYpct="0.5358" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 18:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 18" offsetXpct="0.4510" offsetYpct="0.6746" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 17:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 17" offsetXpct="0.4037" offsetYpct="0.6582" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 16:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 16" offsetXpct="0.2319" offsetYpct="0.5005" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 15:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 15" offsetXpct="0.3119" offsetYpct="0.6102" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 14:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 14" offsetXpct="0.3082" offsetYpct="0.5131" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 13:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 13" offsetXpct="0.3519" offsetYpct="0.5636" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 12:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 12" offsetXpct="0.2792" offsetYpct="0.6519" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 11:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 11" offsetXpct="0.3300" offsetYpct="0.5712" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 10:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 10" offsetXpct="0.2591" offsetYpct="0.5157" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 9:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 9" offsetXpct="0.2882" offsetYpct="0.5913" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 8:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 8" offsetXpct="0.2428" offsetYpct="0.6216" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 7:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 7" offsetXpct="0.2073" offsetYpct="0.5358" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 6:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 6" offsetXpct="0.2110" offsetYpct="0.6872" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 5:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 4" offsetXpct="0.1790" offsetYpct="0.6216" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 3:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 3" offsetXpct="0.1727" offsetYpct="0.6973" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 2:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 2" offsetXpct="0.1354" offsetYpct="0.6152" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 1:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 1" offsetXpct="0.1082" offsetYpct="0.6972" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball:1"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="Tree ball" CustomColor="#f0f0f0" StringType="Single Color Custom" offsetXpct="0.0655" offsetYpct="0.6596" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="#1:1"/>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="10" parm3="5" Hollow="20" Arc="360" LayoutGroup="Default" name="Spinner 2" offsetXpct="0.6055" offsetYpct="0.4664" PreviewScaleX="0.0382" PreviewScaleY="0.0656" PreviewRotation="0" versionNumber="1" StartChannel="#24:1"/>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="10" parm3="5" Hollow="20" Arc="360" LayoutGroup="Default" name="Spinner 1" offsetXpct="0.5346" offsetYpct="0.4651" PreviewScaleX="0.0382" PreviewScaleY="0.0656" PreviewRotation="0" versionNumber="1" StartChannel="#22:1"/>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Spinner" parm2="10" parm3="5" Hollow="20" Arc="360" LayoutGroup="Default" Dir="L" StartSide="B" offsetXpct="0.3600" offsetYpct="0.4741" PreviewScaleX="0.0382" PreviewScaleY="0.0656" PreviewRotation="0" versionNumber="1" StartChannel="#13:109"/>
+    <model StringType="RGB Nodes" Antialias="1" PixelSize="2" Transparency="0" name="Column Matrix 2" parm2="450" parm1="1" parm3="45" DisplayAs="Horiz Matrix" ControllerConnection="WS2811:3" Dir="L" StartSide="B" LayoutGroup="Default" offsetXpct="0.5064" offsetYpct="0.4525" PreviewScaleX="0.0182" PreviewScaleY="0.0984" PreviewRotation="0" versionNumber="1" StartChannel="#19:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model StringType="RGB Nodes" Antialias="1" PixelSize="2" Transparency="0" name="Column Matrix 1" DisplayAs="Horiz Matrix" parm1="1" parm2="450" parm3="45" ControllerConnection="WS2811:2" LayoutGroup="Default" Dir="L" StartSide="B" offsetXpct="0.4492" offsetYpct="0.4538" PreviewScaleX="0.0164" PreviewScaleY="0.1009" PreviewRotation="0" versionNumber="1" StartChannel="#15:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch A" X1="-0.000551" Y1="0.341550" X2="0.074449" Y2="0.340163" Height="0.773686" Angle="0" versionNumber="1" StartChannel="#2:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="54" ControllerConnection="WS2811:8" name="Single Line 6" Dir="R" X1="0.612742" Y1="0.561160" X2="0.668297" Y2="0.561160" versionNumber="1" StartChannel="&gt;Single Line 7:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="85" ControllerConnection="WS2811:8" name="Single Line 7" Dir="R" X1="0.669553" Y1="0.562421" X2="0.689755" Y2="0.501891" versionNumber="1" StartChannel="&gt;Single Line 8:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="61" ControllerConnection="WS2811:5" name="Single Line 1" Dir="L" X1="0.247475" Y1="0.527112" X2="0.259019" Y2="0.575032" versionNumber="1" StartChannel="&gt;Single Line 10:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="22" parm2="14" parm3="21" ControllerConnection="WS2811:6" name="Window Frame 6" offsetXpct="0.6468" offsetYpct="0.4830" PreviewScaleX="0.0345" PreviewScaleY="0.0328" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Window Frame 5:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="21" parm3="21" parm2="15" ControllerConnection="WS2811:6" name="Window Frame 5" offsetXpct="0.5656" offsetYpct="0.4805" PreviewScaleX="0.0309" PreviewScaleY="0.0303" PreviewRotation="0" versionNumber="1" StartChannel="#23:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="21" parm2="17" parm3="21" ControllerConnection="WS2811:7" name="Window Frame 4" offsetXpct="0.3983" offsetYpct="0.4880" PreviewScaleX="0.0216" PreviewScaleY="0.0303" PreviewRotation="0" versionNumber="1" StartChannel="#14:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="19" parm3="19" ControllerConnection="WS2811:4" parm2="39" name="Window Frame 2" offsetXpct="0.3038" offsetYpct="0.4628" PreviewScaleX="0.0231" PreviewScaleY="0.0782" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Window Frame 1:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="10" parm3="10" ControllerConnection="WS2811:4" parm2="39" name="Window Frame 3" offsetXpct="0.3238" offsetYpct="0.4639" PreviewScaleX="0.0115" PreviewScaleY="0.0782" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Window Frame 2:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="10" parm3="10" ControllerConnection="WS2811:4" parm2="39" name="Window Frame 1" offsetXpct="0.2842" offsetYpct="0.4640" PreviewScaleX="0.0127" PreviewScaleY="0.0782" PreviewRotation="0" versionNumber="1" StartChannel="#10:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="Garage Arch 3" X1="0.837445" Y1="0.350683" X2="0.960884" Y2="0.350683" Height="1.000000" Angle="0" versionNumber="1" StartChannel="#8:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="Garage Arch 2" X1="0.857115" Y1="0.345639" X2="0.980553" Y2="0.345639" Height="1.000000" Angle="0" versionNumber="1" StartChannel="#7:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="Garage Arch 4" X1="0.817966" Y1="0.363294" X2="0.941404" Y2="0.363294" Height="1.000000" Angle="0" versionNumber="1" StartChannel="#9:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="100" name="Garage Arch 1" X1="0.878240" Y1="0.334466" X2="1.001678" Y2="0.334466" Height="1.000000" Angle="0" versionNumber="1" StartChannel="#6:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch K" X1="0.750611" Y1="0.335404" X2="0.825611" Y2="0.334017" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch J:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch L" X1="0.825866" Y1="0.335148" X2="0.900866" Y2="0.333761" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch K:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch J" X1="0.675086" Y1="0.339315" X2="0.750086" Y2="0.337928" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch I:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch B" X1="0.074847" Y1="0.342988" X2="0.149845" Y2="0.341601" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch A:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch I" X1="0.596960" Y1="0.339315" X2="0.671960" Y2="0.337928" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch H:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch H" X1="0.523523" Y1="0.337926" X2="0.598523" Y2="0.336539" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch G:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch G" X1="0.449304" Y1="0.342348" X2="0.524304" Y2="0.340961" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch F:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch F" X1="0.376648" Y1="0.337304" X2="0.451648" Y2="0.335917" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch E:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch E" X1="0.301648" Y1="0.339954" X2="0.376648" Y2="0.338567" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch D:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch D" X1="0.224304" Y1="0.342476" X2="0.299304" Y2="0.341089" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch C:1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="L" ControllerConnection="WS2811:16" name="Fence Arch C" X1="0.147861" Y1="0.338949" X2="0.222861" Y2="0.337562" Height="0.773686" Angle="0" versionNumber="1" StartChannel="&gt;Fence Arch B:1"/>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="54" ControllerConnection="WS2811:5" name="Single Line 2" Dir="L" X1="0.259740" Y1="0.572509" X2="0.325397" Y2="0.573770" versionNumber="1" StartChannel="&gt;Single Line 1:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" ControllerConnection="WS2811:5" parm2="37" name="Single Line 3" Dir="L" X1="0.326118" Y1="0.573770" X2="0.329004" Y2="0.591425" versionNumber="1" StartChannel="&gt;Single Line 2:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="38" ControllerConnection="WS2811:8" name="Single Line 5" Dir="R" X1="0.596653" Y1="0.590164" X2="0.608197" Y2="0.563682" versionNumber="1" StartChannel="&gt;Single Line 6:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="200" ControllerConnection="WS2811:8" name="Single Line 8" Dir="R" X1="0.686147" Y1="0.504414" X2="0.437951" Y2="0.504414" versionNumber="1" StartChannel="#28:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="25" Dir="R" ControllerConnection="WS2811:5" name="Single Line 9" X1="0.439581" Y1="0.508197" X2="0.440303" Y2="0.529634" versionNumber="1" StartChannel="#25:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="160" ControllerConnection="WS2811:5" name="Single Line 10" Dir="L" X1="0.438672" Y1="0.527112" X2="0.249639" Y2="0.527112" versionNumber="1" StartChannel="&gt;Single Line 9:1">
+      <dimmingCurve>
+        <all brightness="0" gamma="2"/>
+      </dimmingCurve>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Vertical Line 1" parm2="60" X1="0.249091" Y1="0.525851" X2="0.249091" Y2="0.382093" versionNumber="1" StartChannel="#24:151"/>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="Vertical Line 2" X1="0.685455" Y1="0.503153" X2="0.685455" Y2="0.369483" versionNumber="1" StartChannel="#24:331"/>
+    <model DisplayAs="Wreath" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" CustomColor="#f0f0f0" StringType="Single Color Custom" ControllerConnection="Renard:2" name="Tree ball 5" offsetXpct="0.1990" offsetYpct="0.6416" PreviewScaleX="0.0091" PreviewScaleY="0.0151" PreviewRotation="0" versionNumber="1" StartChannel="&gt;Tree ball 4:1"/>
+  </models>
+  <effects version="0006"/>
+  <views>
+    <view name="Halloween" models=""/>
+  </views>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" name="Arch_Fence_Group" GridSize="400" layout="minimalGrid" models="Fence Arch A,Fence Arch B,Fence Arch C,Fence Arch D,Fence Arch E,Fence Arch F,Fence Arch G,Fence Arch H,Fence Arch I,Fence Arch J,Fence Arch K,Fence Arch L" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Arch_Driveway_Group" GridSize="400" layout="minimalGrid" models="Garage Arch 1,Garage Arch 2,Garage Arch 3,Garage Arch 4" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Whole_Display_Group" models="Arch_Driveway_Group,Arch_Fence_Group,Window_Frame_Group,Roof_Line_Group,Column_Matrix_Group,House_Vertical_String_Group,Spinner_Group,Tree_Ball_Group,BoyscoyoWreath,signMatrix" GridSize="400" layout="minimalGrid" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Window_Frame_Group" GridSize="400" layout="minimalGrid" models="Window Frame 1,Window Frame 2,Window Frame 3,Window Frame 4,Window Frame 5,Window Frame 6" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Roof_Line_Group" GridSize="400" layout="minimalGrid" models="Single Line 2,Single Line 3,Single Line 5,Single Line 6,Single Line 8,Single Line 9,Single Line 10,TopRoofLineGroup,Single Line 7,Single Line 1" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Column_Matrix_Group" models="Column Matrix 1,Column Matrix 2" GridSize="400" layout="minimalGrid" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="House_Vertical_String_Group" models="Vertical Line 1,Vertical Line 2" GridSize="400" layout="minimalGrid" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="House_Only" models="House_Vertical_String_Group,Roof_Line_Group,Spinner_Group,Window_Frame_Group,Vertical Line 1,Vertical Line 2,BoyscoyoWreath,Column Matrix 1,Column Matrix 2,signMatrix" GridSize="400" layout="minimalGrid" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Arch_Fence_Left_Group" GridSize="400" layout="minimalGrid" models="Fence Arch A,Fence Arch B,Fence Arch C,Fence Arch D,Fence Arch E,Fence Arch F" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Arch_Fence_Right_Group" GridSize="400" layout="minimalGrid" models="Fence Arch G,Fence Arch H,Fence Arch I,Fence Arch J,Fence Arch K,Fence Arch L" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Roof_Line_Upper_Group" GridSize="400" layout="minimalGrid" models="Single Line 2,Single Line 3,Single Line 5,Single Line 6,TopRoofLineGroup" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Roof_Line_Lower_Group" GridSize="400" layout="minimalGrid" models="Single Line 8,Single Line 9,Single Line 10" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Roof_Line_Lower_Verticals" GridSize="400" layout="minimalGrid" models="Single Line 1,Single Line 7" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Roof_Line_Upper_Group_Verticals" GridSize="400" layout="minimalGrid" models="Single Line 3,Single Line 5" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Spinner_Group" GridSize="400" layout="minimalGrid" models="Spinner,Spinner 1,Spinner 2" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Whole_Display_No_Matrix" models="Arch_Driveway_Group,Arch_Fence_Group,House_Vertical_String_Group,Roof_Line_Group,Spinner_Group,Vertical Line 1,Vertical Line 2,Window_Frame_Group,BoyscoyoWreath" GridSize="400" layout="minimalGrid" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Tree_Ball_Group" GridSize="400" layout="minimalGrid" models="Tree ball,Tree ball 1,Tree ball 2,Tree ball 3,Tree ball 4,Tree ball 5,Tree ball 6,Tree ball 7,Tree ball 8,Tree ball 9,Tree ball 10,Tree ball 11,Tree ball 12,Tree ball 13,Tree ball 14,Tree ball 15,Tree ball 16,Tree ball 17,Tree ball 18,Tree ball 19,Tree ball 20,Tree ball 21,Tree ball 22,Tree ball 23" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Halloween_Porch_Single_Lines" GridSize="400" layout="minimalGrid" models="HalloweenPorchSingleLine 1,HalloweenPorchSingleLine 2" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="HalloweenGhostsGroup" GridSize="400" layout="minimalGrid" models="Tree ball,Tree ball 1,Tree ball 2,Tree ball 3" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="TopRoofLineGroup" GridSize="400" layout="minimalGrid" models="Single Line 4a,Single Line 4b" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="WindowsAndColumns" GridSize="400" layout="minimalGrid" models="Column Matrix 1,Column Matrix 2,HalloweenPorchSingleLine 1,HalloweenPorchSingleLine 2,Window_Frame_Group" LayoutGroup="Default"/>
+  </modelGroups>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=2099196;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=2115583;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=2005;floaty=267;floatw=1591;floath=826|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=2099199;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=343;besth=392;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=565;floaty=530;floatw=1152;floath=635|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=171;besth=151;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=526;besth=552;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099196;dir=1;layer=0;row=0;pos=3;prop=100000;bestw=900;besth=500;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=335;besth=205;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=301;besth=262;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=298;besth=268;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=124;besth=59;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=467|dock_size(1,0,0)=239|dock_size(5,0,0)=126|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <scaleImage value="1"/>
+    <backgroundImage value="/media/plex/xLights Show Folder/2017/Christmas2/_lost/20170115_154518.jpg"/>
+    <backgroundBrightness value="31"/>
+    <previewWidth value="1100"/>
+    <previewHeight value="793"/>
+  </settings>
+  <colors>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <RowHeader Red="212" Green="208" Blue="200"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+</xrgb>

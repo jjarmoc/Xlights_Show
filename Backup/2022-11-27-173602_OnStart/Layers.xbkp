@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2022.23</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>60.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1,C_SLIDER_SparkleFrequency=100</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1,C_SLIDER_SparkleFrequency=50</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1,C_SLIDER_SparkleFrequency=50</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1,C_SLIDER_SparkleFrequency=100</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#00000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#00000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=-100,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=400,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Speed=2,E_SLIDER_Pinwheel_Thickness=10,E_SLIDER_Pinwheel_Twist=0,E_VALUECURVE_Pinwheel_Offset=Active=TRUE|Id=ID_VALUECURVE_Pinwheel_Offset|Type=Ramp|Min=0.00|Max=360.00|P2=360.00|RV=TRUE|,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadeout=2.00</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Horizontal Per Strand,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Alternate Left,E_SLIDER_Bars_BarCount=3,E_TEXTCTRL_Bars_Cycles=6,T_CHOICE_In_Transition_Type=Blinds,T_CHOICE_Out_Transition_Type=Dissolve,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=4.00</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=90,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=400,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Speed=2,E_SLIDER_Pinwheel_Thickness=10,E_SLIDER_Pinwheel_Twist=3,E_VALUECURVE_Pinwheel_Offset=Active=TRUE|Id=ID_VALUECURVE_Pinwheel_Offset|Type=Ramp|Min=0.00|Max=360.00|P2=360.00|RV=TRUE|,T_CHOICE_LayerMethod=Additive,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadeout=2.00</Effect>
+    <Effect>E_CHECKBOX_ColorWash_CircularPalette=1,E_TEXTCTRL_ColorWash_Cycles=1.6,T_TEXTCTRL_Fadein=4.00,T_TEXTCTRL_Fadeout=4.00</Effect>
+    <Effect>T_TEXTCTRL_Fadein=4.00,T_TEXTCTRL_Fadeout=4.00</Effect>
+    <Effect>T_TEXTCTRL_Fadein=2.00</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Horizontal Per Strand,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Alternate Right,E_SLIDER_Bars_BarCount=3,E_TEXTCTRL_Bars_Cycles=3,T_CHOICE_In_Transition_Type=Blinds,T_CHOICE_Out_Transition_Type=Dissolve,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=4.00</Effect>
+    <Effect>T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=05.00</Effect>
+    <Effect>E_TEXTCTRL_On_Cycles=30.0,E_VALUECURVE_On_Transparency=Active=TRUE|Id=ID_VALUECURVE_On_Transparency|Type=Sine|Min=0.00|Max=100.00|P1=100.00|P2=53.00|P3=10.00|P4=50.00|RV=TRUE|,T_CHOICE_Out_Transition_Type=Dissolve,T_TEXTCTRL_Fadeout=5.00</Effect>
+    <Effect>E_TEXTCTRL_ColorWash_Cycles=2.3</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,T_CHOICE_In_Transition_Type=Circle Explode,T_CHOICE_Out_Transition_Type=Doorway,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=5.00</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=2,E_SLIDER_Spirals_Rotation=300,E_SLIDER_Spirals_Thickness=13,E_TEXTCTRL_Spirals_Movement=3.0,T_TEXTCTRL_Fadeout=4.00</Effect>
+    <Effect>T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=5.00</Effect>
+    <Effect>E_CHECKBOX_Lines_FadeTrails=1,E_SLIDER_Lines_Objects=7,E_SLIDER_Lines_Segments=4,E_SLIDER_Lines_Speed=1,E_SLIDER_Lines_Thickness=3,E_SLIDER_Lines_Trails=2</Effect>
+    <Effect>B_CHOICE_BufferStyle=Default Model As A Pixel,E_CHECKBOX_Lines_FadeTrails=1,E_SLIDER_Lines_Objects=7,E_SLIDER_Lines_Segments=4,E_SLIDER_Lines_Speed=1,E_SLIDER_Lines_Thickness=3,E_SLIDER_Lines_Trails=2</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Alternate Left,E_SLIDER_Bars_BarCount=3,E_TEXTCTRL_Bars_Cycles=3,T_CHOICE_In_Transition_Type=Blinds,T_CHOICE_Out_Transition_Type=Dissolve,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=4.00</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0"/>
+    <Element collapsed="0" type="timing" name="1000ms Metronome" visible="1" views="" active="1"/>
+    <Element collapsed="1" type="model" name="All" visible="1"/>
+    <Element collapsed="1" type="model" name="Floods" visible="1"/>
+    <Element collapsed="1" type="model" name="Stars" visible="1"/>
+    <Element collapsed="1" type="model" name="Trees" visible="1"/>
+    <Element collapsed="1" type="model" name="Bulbs" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-20" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-19" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-18" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-17" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-16" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-15" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-14" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-13" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-12" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-11" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-10" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Bulb" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-10" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-4" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="1000ms Metronome" fixed="1000">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" startTime="29900" endTime="50000" palette="0"/>
+        <Effect ref="1" name="Bars" id="1" startTime="50000" endTime="60450" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Pinwheel" startTime="29900" endTime="50050" palette="2"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="3" name="Color Wash" startTime="15000" endTime="34200" palette="3"/>
+      </EffectLayer>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Floods">
+      <EffectLayer>
+        <Effect ref="4" name="On" startTime="0" endTime="9650" palette="4"/>
+        <Effect ref="5" name="On" id="1" startTime="37500" endTime="50150" palette="4"/>
+        <Effect ref="6" name="Bars" id="2" startTime="50150" endTime="60900" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="On" startTime="6100" endTime="17800" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Stars">
+      <EffectLayer>
+        <Effect ref="7" name="On" startTime="0" endTime="13800" palette="6"/>
+        <Effect ref="8" name="On" id="1" startTime="13800" endTime="30000" palette="7"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="9" name="Color Wash" startTime="15750" endTime="26850" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Trees">
+      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="10" name="On" startTime="13650" endTime="30100" palette="9"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="11" name="Spirals" startTime="0" endTime="15500" palette="10"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="12" name="On" startTime="0" endTime="15650" palette="11"/>
+      </EffectLayer>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulbs">
+      <EffectLayer>
+        <Effect ref="13" name="Lines" startTime="3000" endTime="15100" palette="12"/>
+        <Effect ref="14" name="Lines" id="1" startTime="15100" endTime="27200" palette="13"/>
+        <Effect ref="15" name="Bars" id="2" startTime="49100" endTime="59850" palette="1"/>
+      </EffectLayer>
+      <EffectLayer/>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-20">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-19">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-18">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-17">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-15">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-14">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-13">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-12">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bulb">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-4">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
